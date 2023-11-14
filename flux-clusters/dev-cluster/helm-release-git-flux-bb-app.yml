@@ -13,4 +13,4 @@ spec:
         kind: GitRepository
         name: source-git-flux-bb-app
   interval: 10s
-  targetNamespace: 5-demo
+  targetNamespace: helm-demo-app
